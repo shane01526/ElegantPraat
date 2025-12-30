@@ -1,0 +1,4 @@
+streamlit
+praat-parselmouth
+numpy
+matplotlib
